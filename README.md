@@ -1,4 +1,4 @@
-# m7amd777 / m7amd777  
+# Mohamed Badawy
 _Aspiring Full-Stack Developer & Computer Vision Enthusiast_
 
 **👋 Hello! I’m Mohamed Badawy**  
