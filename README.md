@@ -56,7 +56,7 @@ When I’m not coding, I’m capturing the world through my lens—travel photog
 ---
 
 ## 📫 Connect with Me
-- ✉️ Email: (mohmanso2015@gmail.com) 
+- ✉️ Email: mohmanso2015@gmail.com
 - 🔗 LinkedIn: [mohamed-badawy-6237b424a](https://www.linkedin.com/in/mohamed-badawy-6237b424a)  
 - 🌐 Portfolio: _coming soon_
 
