@@ -77,10 +77,11 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M7amdJava01&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7amd777&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=m7amd777&label=Profile%20views&color=0e75b6&style=flat)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m7amd777&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=m7amd777&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m7amd777&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://leetcode-stats.vercel.app/api?username=M7mdJava01)]([https://github.com/JeremyTsaii/leetcode-stats](https://leetcode.com/M7mdJava01/))<br/>
 
 ---
 
