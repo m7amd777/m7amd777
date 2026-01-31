@@ -70,7 +70,7 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 * 🥇 **Winner**, INJAZ Bahrain Product of the Year 2024
 * 🥇 **Winner**, Global Student Research Hackathon (GSR)
-* 📜 **Dean’s List**, American University of Bahrain (3 years)
+* 📜 **Dean’s List**, American University of Bahrain (4 years)
 * 📖 **Published**: Study on generative-AI capabilities for supervised ML model generation
 
 ---
@@ -78,7 +78,6 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 ## 🎓 Education & Affiliations
 
 * **B.Sc. Computer Science**, American University of Bahrain (Expected 2026)
-* **Member**, Dev Club @ AUBH
 * **Student**, Reboot Coding Institute (Full-Stack Dev)
 
 ---
@@ -95,7 +94,7 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ## 🌟 Outside Tech
 
-When I’m not coding, I’m capturing the world through my lens—travel photography is my passion. I also train in martial arts, enjoy listening to music, and love diving into a good book.
+When I’m not coding, I enjoy activities like running and lifting while learning something new on my headphones. I play martial arts, and I love diving into a good book, movie, or a game.
 
 ---
 
@@ -103,6 +102,5 @@ When I’m not coding, I’m capturing the world through my lens—travel photog
 
 * ✉️ Email: [mohmanso2015@gmail.com](mailto:mohmanso2015@gmail.com)
 * 🔗 LinkedIn: [mohamed-badawy-6237b424a](https://www.linkedin.com/in/mohamed-badawy-6237b424a)
-* 🌐 Portfolio: *coming soon*
 
 <!-- Feel free to add your Twitter, personal website, or any other links here. -->
