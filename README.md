@@ -54,15 +54,15 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 > Computer vision model that classifies different types of waste materials to support environmental cleanup.
 > **Tech:** Python · YOLOv8 · OpenCV · TensorFlow
 
-### [DevWay](https://github.com/m7amd777/DevWay)
+### [Real-time-forum](https://github.com/m7amd777/real-time-forum)
 
-> Interactive website using generative-AI media to raise awareness about AI regulation.
-> **Tech:** HTML · CSS · JavaScript · OpenAI API
+> A forum with an upgraded websocket connection for chatting and tracking online users and more.
+> **Tech:** HTML · CSS · JavaScript · Golang
 
-### [Functional\_Constraints](https://github.com/m7amd777/Functional_Constraints)
+### [Net-cat-chat](https://github.com/m7amd777/net-cat-chat)
 
-> Smart space-travel itinerary tool built for the NASA Space Apps Challenge.
-> **Tech:** HTML · CSS · JavaScript
+> A Netcat-inspired tool built for real-time, two-way chat over TCP. This project mimics Netcat’s raw socket capabilities but is focused on enabling simple peer-to-peer messaging between multiple users.
+> **Tech:** Golang · CLI
 
 ---
 
