@@ -13,7 +13,7 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Proficiencies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
@@ -40,10 +40,6 @@ I thrive on tackling new challenges across web development and AI. Currently ear
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecolab.svg" alt="Google Colab" width="50"/>
 </p>
 
-* **Languages:** Python · Go · Java · C# · JavaScript · HTML · CSS · MATLAB
-* **Frameworks & Tools:** Flask · Docker · Node.js · React (familiar) · .NET · SwiftUI
-* **AI & CV:** YOLOv8 · OpenCV · Roboflow
-* **Other:** Git · REST APIs · SQL
 
 ---
 
@@ -66,7 +62,7 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ---
 
-## 🏆 Achievements
+## 🏆 Awards and Achievements
 
 * 🥇 **Winner**, INJAZ Bahrain Product of the Year 2024
 * 🥇 **Winner**, Global Student Research Hackathon (GSR)
@@ -79,22 +75,6 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 * **B.Sc. Computer Science**, American University of Bahrain (Expected 2026)
 * **Student**, Reboot Coding Institute (Full-Stack Dev)
-
----
-
-## 📊 GitHub Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=m7amd777&label=Profile%20views&color=0e75b6&style=flat)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m7amd777&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=m7amd777&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m7amd777&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://leetcode-stats.vercel.app/api?username=M7mdJava01)]([https://github.com/JeremyTsaii/leetcode-stats](https://leetcode.com/M7mdJava01/))<br/>
-
----
-
-## 🌟 Outside Tech
-
-When I’m not coding, I enjoy activities like running and lifting while learning something new on my headphones. I play martial arts, and I love diving into a good book, movie, or a game.
 
 ---
 
