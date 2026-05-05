@@ -71,14 +71,14 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ---
 
-## 🎓 Education & Affiliations
+## Education & Affiliations
 
 * **B.Sc. Computer Science**, American University of Bahrain (Expected 2026)
 * **Student**, Reboot Coding Institute (Full-Stack Dev)
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 * ✉️ Email: [mohmanso2015@gmail.com](mailto:mohmanso2015@gmail.com)
 * 🔗 LinkedIn: [mohamed-badawy-6237b424a](https://www.linkedin.com/in/mohamed-badawy-6237b424a)
