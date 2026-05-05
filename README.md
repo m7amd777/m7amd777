@@ -1,6 +1,6 @@
 # Mohamed Badawy
 
-*Aspiring Full-Stack Developer & Computer Vision Enthusiast*
+*Full-Stack Developer*
 
 **👋 Hello! I’m Mohamed Badawy**
 Computer Science student at the American University of Bahrain (Class of 2026) | Full-Stack Developer @ Reboot Coding Institute
