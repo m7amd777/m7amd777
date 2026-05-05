@@ -2,18 +2,18 @@
 
 *Full-Stack Developer*
 
-**👋 Hello! I’m Mohamed Badawy**
+**Hello! I’m Mohamed Badawy**
 Computer Science student at the American University of Bahrain (Class of 2026) | Full-Stack Developer @ Reboot Coding Institute
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I thrive on tackling new challenges across web development and AI. Currently earning my 01edu Full-Stack Certification, I build end-to-end applications and explore computer vision models in my spare time.
 
 ---
 
-## 🛠️ Proficiencies
+## Proficiencies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
@@ -43,7 +43,7 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ---
 
-## 📂 Signature Projects
+## Signature Projects
 
 ### [Farz](https://github.com/m7amd777/Farz)
 
@@ -62,7 +62,7 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ---
 
-## 🏆 Awards and Achievements
+##  Awards and Achievements
 
 * 🥇 **Winner**, INJAZ Bahrain Product of the Year 2024
 * 🥇 **Winner**, Global Student Research Hackathon (GSR)
