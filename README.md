@@ -3,7 +3,7 @@
 *Full-Stack Developer*
 
 **Hello! I’m Mohamed Badawy**
-Computer Science student at the American University of Bahrain (Class of 2026) | Full-Stack Developer @ Reboot Coding Institute
+Computer Science Graduate from the American University of Bahrain (Class of 2026) | Full-Stack Developer @ Reboot Coding Institute
 
 ---
 
@@ -43,38 +43,12 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 
 ---
 
-## Signature Projects
-
-### [Farz](https://github.com/m7amd777/Farz)
-
-> Computer vision model that classifies different types of waste materials to support environmental cleanup.
-> **Tech:** Python · YOLOv8 · OpenCV · TensorFlow
-
-### [Real-time-forum](https://github.com/m7amd777/real-time-forum)
-
-> A forum with an upgraded websocket connection for chatting and tracking online users and more.
-> **Tech:** HTML · CSS · JavaScript · Golang
-
-### [Net-cat-chat](https://github.com/m7amd777/net-cat-chat)
-
-> A Netcat-inspired tool built for real-time, two-way chat over TCP. This project mimics Netcat’s raw socket capabilities but is focused on enabling simple peer-to-peer messaging between multiple users.
-> **Tech:** Golang · CLI
-
----
-
 ##  Awards and Achievements
 
 * 🥇 **Winner**, INJAZ Bahrain Product of the Year 2024
 * 🥇 **Winner**, Global Student Research Hackathon (GSR)
 * 📜 **Dean’s List**, American University of Bahrain (4 years)
 * 📖 **Published**: Study on generative-AI capabilities for supervised ML model generation
-
----
-
-## Education & Affiliations
-
-* **B.Sc. Computer Science**, American University of Bahrain (Expected 2026)
-* **Student**, Reboot Coding Institute (Full-Stack Dev)
 
 ---
 
