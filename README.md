@@ -9,7 +9,7 @@ Computer Science Graduate from the American University of Bahrain (Class of 2026
 
 ## About Me
 
-I thrive on tackling new challenges across web development and AI. Currently earning my 01edu Full-Stack Certification, I build end-to-end applications and explore computer vision models in my spare time.
+I build apps. Currently earning my 01edu Full-Stack Certification, I build end-to-end applications and experiment with AI limits often.
 
 
 
