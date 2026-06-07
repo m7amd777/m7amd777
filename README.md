@@ -5,13 +5,13 @@
 **Hello! I’m Mohamed Badawy**
 Computer Science Graduate from the American University of Bahrain (Class of 2026) | Full-Stack Developer @ Reboot Coding Institute
 
----
+
 
 ## About Me
 
 I thrive on tackling new challenges across web development and AI. Currently earning my 01edu Full-Stack Certification, I build end-to-end applications and explore computer vision models in my spare time.
 
----
+
 
 ## Proficiencies
 
@@ -40,8 +40,6 @@ I thrive on tackling new challenges across web development and AI. Currently ear
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecolab.svg" alt="Google Colab" width="50"/>
 </p>
 
-
----
 
 ##  Awards and Achievements
 
