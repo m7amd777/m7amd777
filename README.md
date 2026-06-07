@@ -48,7 +48,6 @@ I thrive on tackling new challenges across web development and AI. Currently ear
 * 📜 **Dean’s List**, American University of Bahrain (4 years)
 * 📖 **Published**: Study on generative-AI capabilities for supervised ML model generation
 
----
 
 ## Connect with Me
 
